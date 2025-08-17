@@ -1,0 +1,1 @@
+Liste riscos (viés de rótulo, desatualização de dados, confusão entre sanção e condenação) e como mitigar.
